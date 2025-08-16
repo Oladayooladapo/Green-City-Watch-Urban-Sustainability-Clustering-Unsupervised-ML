@@ -1,0 +1,2 @@
+# Green-City-Watch-Urban-Sustainability-Clustering-Unsupervised-ML
+This project applies **unsupervised machine learning (clustering)** to group global cities based on environmental and livability metrics.   It was conducted for **GreenCityWatch**, a global urban sustainability organisation, with the goal of supporting governments and agencies in identifying cities most in need of sustainability interventions.
